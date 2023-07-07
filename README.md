@@ -1,0 +1,4 @@
+# Predicting New York Taxi Fares with Linear Regression
+Welcome to this GitHub repository! This project consists of a comprehensive Jupyter Notebook where I've implemented a **Linear Regression model entirely from scratch to predict taxi fares in New York City**. The notebook covers the complete process, from data exploration and preprocessing, feature engineering, model building, to the final evaluation. To view the notebook and delve into the project, please click on the link below. Enjoy the journey through this exciting Machine Learning application!
+
+[View the Jupyter Notebook here](https://nbviewer.org/github/GeorgeD88/LinearRegression-from-Scratch/blob/main/taxi_fare_predictor_walkthrough.ipynb)
